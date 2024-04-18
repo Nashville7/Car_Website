@@ -24,18 +24,18 @@
             Categories
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">Nature</a></li>
+            <li><a class="dropdown-item" href="#">Mustang</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Architecture</a></li>
+            <li><a class="dropdown-item" href="#">Ferrari</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Travel</a></li>
+            <li><a class="dropdown-item" href="#">Porche</a></li>
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
+          <a class="nav-link" href="#">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link" href="#">Contact</a>
         </li>
       </ul>
     </div>
