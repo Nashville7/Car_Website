@@ -28,7 +28,7 @@
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Ferrari</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Porche</a></li>
+            <li><a class="dropdown-item" href="#">Porsche</a></li>
           </ul>
         </li>
         <li class="nav-item">
