@@ -86,6 +86,8 @@
   <div class="py-4">
     <h2 class="text-center">Mustang</h2>
   </div>
+<div class="container-fluid">
+  <div class="row">
   <div class="col-lg-4 col-md-4 col-12">
     <img src="images/Mustang1.jpg" alt="" class="img-fluid pb-3">
   </div>
@@ -94,6 +96,8 @@
   </div>
   <div class="col-lg-4 col-md-4 col-12">
     <img src="images/Mustang1.jpg" alt="" class="img-fluid pb-3">
+  </div>
+  </div>
   </div>
 </section>
 
