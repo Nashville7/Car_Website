@@ -144,7 +144,7 @@
   </div>
 
   <div class="w-50 m-auto">
-    <form action="about.php" method="post">
+    <form action="form.php" method="post">
       <div class="form-group">
         <label>Name:</label>
         <input type="text" name="name" class="form-control">
