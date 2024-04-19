@@ -51,24 +51,21 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="images/Mustang1.jpg" class="d-block w-100" alt="...">
-      <!-- <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
-      </div> -->
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Mustang</h5>
+      </div>
     </div>
     <div class="carousel-item">
       <img src="images/Mustang2.jpg" class="d-block w-100" alt="...">
-      <!-- <div class="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Some representative placeholder content for the second slide.</p>
-      </div> -->
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Porsche</h5>
+      </div>
     </div>
     <div class="carousel-item">
       <img src="images/Mustang3.jpg" class="d-block w-100" alt="...">
-      <!-- <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Some representative placeholder content for the third slide.</p>
-      </div> -->
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Ferrari</h5>
+      </div>
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
