@@ -32,10 +32,10 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link" href="#about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
+          <a class="nav-link" href="#contact">Contact</a>
         </li>
       </ul>
     </div>
@@ -144,6 +144,7 @@
 </a>
 
 <!-- Contact form -->
+<a id="contact">
 <section class="my-4">
   <div class="py-4">
     <h2 class="text-center">Contact Us</h2>
@@ -168,7 +169,9 @@
       </form>
   </div>
   </section>
+  </a>
 
+  <a id="about">
   <section class="my-4">
   <div class="py-4">
     <h2 class="text-center">About Us</h2>
@@ -178,6 +181,7 @@
     <p class="text-center"><b> I love Mustang, Porsche and Ferrari cars</p>
   </div>
   </section>
+  </a>
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/3.5.1/jquery.min.js"></script>
