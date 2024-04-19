@@ -89,13 +89,13 @@
 <div class="container-fluid">
   <div class="row">
   <div class="col-lg-4 col-md-4 col-12">
-    <img src="images/Mustang1.jpg" alt="" class="img-fluid pb-3">
+    <img src="images/Mustangone.jpg" alt="" class="img-fluid pb-3">
   </div>
   <div class="col-lg-4 col-md-4 col-12">
-    <img src="images/Mustang1.jpg" alt="" class="img-fluid pb-3">
+    <img src="images/Mustangtwo.jpg" alt="" class="img-fluid pb-3">
   </div>
   <div class="col-lg-4 col-md-4 col-12">
-    <img src="images/Mustang1.jpg" alt="" class="img-fluid pb-3">
+    <img src="images/Mustangthree.jpg" alt="" class="img-fluid pb-3">
   </div>
   </div>
   </div>
