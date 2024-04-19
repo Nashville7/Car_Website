@@ -24,11 +24,11 @@
             Categories
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">Mustang</a></li>
+            <li><a class="dropdown-item" href="#mustang">Mustang</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Ferrari</a></li>
+            <li><a class="dropdown-item" href="#porsche">Porsche</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Porsche</a></li>
+            <li><a class="dropdown-item" href="#ferrari">Ferrari</a></li>
           </ul>
         </li>
         <li class="nav-item">
@@ -50,19 +50,19 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/Mustang1.jpg" class="d-block w-100" alt="...">
+      <img src="images/Mustang1.jpg" class="d-block w-100" alt="mustang">
       <div class="carousel-caption d-none d-md-block">
         <h5>Mustang</h5>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/Mustang2.jpg" class="d-block w-100" alt="...">
+      <img src="images/Mustang2.jpg" class="d-block w-100" alt="porsche">
       <div class="carousel-caption d-none d-md-block">
         <h5>Porsche</h5>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/Mustang3.jpg" class="d-block w-100" alt="...">
+      <img src="images/Mustang3.jpg" class="d-block w-100" alt="ferrari">
       <div class="carousel-caption d-none d-md-block">
         <h5>Ferrari</h5>
       </div>
@@ -79,6 +79,7 @@
 </div>
 <!-- End of Carousel Banner -->
 
+<a id="mustang">
 <section class="my-4">
   <div class="py-4">
     <h2 class="text-center">Mustang</h2>
@@ -97,8 +98,9 @@
   </div>
   </div>
 </section>
+</a>
 
-
+<a id="porsche">
 <section class="my-4">
   <div class="py-4">
     <h2 class="text-center">Porsche</h2>
@@ -117,7 +119,10 @@
   </div>
   </div>
 </section>
+</a>
 
+
+<a id="ferrari">
 <section class="my-4">
   <div class="py-4">
     <h2 class="text-center">Ferrari</h2>
@@ -136,6 +141,7 @@
   </div>
   </div>
 </section>
+</a>
 
 <!-- Contact form -->
 <section class="my-4">
