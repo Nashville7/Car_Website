@@ -98,6 +98,82 @@
   </div>
 </section>
 
+
+<section class="my-4">
+  <div class="py-4">
+    <h2 class="text-center">Porsche</h2>
+  </div>
+<div class="container-fluid">
+  <div class="row">
+  <div class="col-lg-4 col-md-4 col-12">
+    <img src="images/Mustangone.jpg" alt="" class="img-fluid pb-3">
+  </div>
+  <div class="col-lg-4 col-md-4 col-12">
+    <img src="images/Mustangtwo.jpg" alt="" class="img-fluid pb-3">
+  </div>
+  <div class="col-lg-4 col-md-4 col-12">
+    <img src="images/Mustangthree.jpg" alt="" class="img-fluid pb-3">
+  </div>
+  </div>
+  </div>
+</section>
+
+<section class="my-4">
+  <div class="py-4">
+    <h2 class="text-center">Ferrari</h2>
+  </div>
+<div class="container-fluid">
+  <div class="row">
+  <div class="col-lg-4 col-md-4 col-12">
+    <img src="images/Mustangone.jpg" alt="" class="img-fluid pb-3">
+  </div>
+  <div class="col-lg-4 col-md-4 col-12">
+    <img src="images/Mustangtwo.jpg" alt="" class="img-fluid pb-3">
+  </div>
+  <div class="col-lg-4 col-md-4 col-12">
+    <img src="images/Mustangthree.jpg" alt="" class="img-fluid pb-3">
+  </div>
+  </div>
+  </div>
+</section>
+
+<!-- Contact form -->
+<section class="my-4">
+  <div class="py-4">
+    <h2 class="text-center">Contact Us</h2>
+  </div>
+
+  <div class="w-50 m-auto">
+    <form action="about.php" method="post">
+      <div class="form-group">
+        <label>Name:</label>
+        <input type="text" name="name" class="form-control">
+      </div>
+      <div class="form-group">
+        <label>Email:</label>
+        <input type="email" name="email" class="form-control">
+      </div>
+      <div class="form-group">
+        <label>Number:</label>
+        <input type="text" name="number" class="form-control">
+      </div>
+      <br>
+      <button type="submit" class="btn btn-success">Submit</button>
+      </form>
+  </div>
+  </section>
+
+  <section class="my-4">
+  <div class="py-4">
+    <h2 class="text-center">About Us</h2>
+  </div>
+  <div class="container-fluid">
+    <h3 class="text-center"></h3>
+    <p class="text-center"><b> I love Mustang, Porsche and Ferrari cars</p>
+  </div>
+  </section>
+
+
 <script src="https://ajax.googleapis.com/ajax/libs/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js"></script>
