@@ -8,39 +8,24 @@
     <title>Photo Gallery</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Photo Gallery</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Categories
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#mustang">Mustang</a></li>
-            <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#porsche">Porsche</a></li>
-            <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#ferrari">Ferrari</a></li>
-          </ul>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#about">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#contact">Contact</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
+
+<!-- Navbar -->
+<header class="header">
+  <a href="" class="logo">🚗</a>
+  <input class="menu-btn" type="checkbox" id="menu-btn" />
+  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+  <ul class="menu">
+  <li><a href="#about">About</a></li>
+    <li><a href="#mustang">Mustang</a></li>
+    <li><a href="#porsche">Porsche</a></li>
+    <li><a href="#ferrari">Ferrari</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</header>
+
+<!-- end of navbar  -->
+
+
 <!-- CAROUSEL BANNER -->
 <div id="carouselExampleCaptions" class="carousel slide">
   <div class="carousel-indicators">
@@ -79,8 +64,20 @@
 </div>
 <!-- End of Carousel Banner -->
 
+<a id="about">
+  <section class="my-4">
+  <div class="py-4">
+    <h2 class="text-center">About Us</h2>
+  </div>
+  <div class="container-fluid">
+    <h3 class="text-center"></h3>
+    <p class="text-center"><b> I love Mustang, Porsche and Ferrari cars</p>
+  </div>
+  </section>
+  </a>
+
 <a id="mustang">
-<section class="my-4">
+<section class="my-4 aboutsection">
   <div class="py-4">
     <h2 class="text-center">Mustang</h2>
   </div>
@@ -167,18 +164,6 @@
       <br>
       <button type="submit" class="btn btn-success">Submit</button>
       </form>
-  </div>
-  </section>
-  </a>
-
-  <a id="about">
-  <section class="my-4">
-  <div class="py-4">
-    <h2 class="text-center">About Us</h2>
-  </div>
-  <div class="container-fluid">
-    <h3 class="text-center"></h3>
-    <p class="text-center"><b> I love Mustang, Porsche and Ferrari cars</p>
   </div>
   </section>
   </a>
